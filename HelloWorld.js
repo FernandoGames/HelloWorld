@@ -1,1 +1,3 @@
-console.log('Hello World!');
+class HelloWorld {
+  console.log('Hello World!');
+}
